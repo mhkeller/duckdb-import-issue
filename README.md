@@ -21,7 +21,7 @@ The log should report the correct number of rows, which is 100,000
 
 It logs `288268` as the total number of rows
 
-```json
+```js
 { percentage: 0, rows_processed: 0n, total_rows_to_process: 288628n }
 {
   percentage: 26.579830264777126,
